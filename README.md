@@ -1,2 +1,3 @@
 # Super-Tic-Tac-Toe
-Super Tic Tac Toe made with pygame then compiled into an .exe
+Super Tic Tac Toe made with pygame.
+It can be compiled into an .exe with pyinstaller.
